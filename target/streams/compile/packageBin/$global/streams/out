@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/vellerm/pi/promotion/target/scala-2.12/promotion_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come/task/promotion/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come/task/promotion/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come/task/promotion/Main2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come/task/promotion/Main2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come/task/promotion/Main2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come/task/promotion/Main2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come/task/promotion/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come/task/promotion/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come/task[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come/task[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come/task/promotion[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come/task/promotion[0m
+[0m[[0m[0mdebug[0m] [0m[0m	come/task/promotion/Main2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/come/task/promotion/Main2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
