@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/vellerm/pi/promotion/target/scala-2.12/promotion_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/PromotionCombo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/PromotionCombo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/Promotion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/Promotion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/AllPromotions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/AllPromotions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/Orchestrator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/Orchestrator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/PromotionCombo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/PromotionCombo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/AllPromotions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/AllPromotions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/Promotion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/Promotion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/task/promotion/Orchestrator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vellerm/pi/promotion/target/scala-2.12/classes/com/task/promotion/Orchestrator.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
